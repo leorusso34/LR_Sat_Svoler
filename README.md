@@ -6,7 +6,7 @@ Come usare il risolutore
 
 COMPILAZIONE: Esegui *make* per automatizzare la compilazione di Main.cc e clause_functions.cc tramite il compilatore GCC.
 PULIZIA: Esegui *make clean* per eliminare l'eseguibile e i file oggetto prodotti.
-ESECUZIONE: Utilizza il comando ./sat_solver <nome_file.cnf> per avviare la ricerca locale sull'istanza CNF fornita.
+ESECUZIONE: Utilizza il comando *./sat_solver <nome_file.cnf>* per avviare la ricerca locale sull'istanza CNF fornita.
 
 Dettagli Tecnici
 
